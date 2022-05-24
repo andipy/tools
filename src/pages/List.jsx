@@ -37,7 +37,7 @@ const List = () => {
 
     return (
         <div>
-            <div className='container padding-nav'>
+            <div className='container h-full padding-nav'>
                 {tools.map((tool) => {
                     return (
                         <Link
