@@ -1,16 +1,29 @@
 {
   "files": {
-    "main.css": "/tools/static/css/main.74be31eb.css",
-    "main.js": "/tools/static/js/main.26870f8d.js",
-    "static/js/787.fb87aa3c.chunk.js": "/tools/static/js/787.fb87aa3c.chunk.js",
-    "index.html": "/tools/index.html",
-    "static/media/backarrow.svg": "/tools/static/media/backarrow.c0caa67ee241f14792ba47900f679142.svg",
-    "main.74be31eb.css.map": "/tools/static/css/main.74be31eb.css.map",
-    "main.26870f8d.js.map": "/tools/static/js/main.26870f8d.js.map",
-    "787.fb87aa3c.chunk.js.map": "/tools/static/js/787.fb87aa3c.chunk.js.map"
+    "main.css": "/react-gh-pages/static/css/main.fb963a16.css",
+    "main.js": "/react-gh-pages/static/js/main.9f1ecd1e.js",
+    "static/js/787.aa569ced.chunk.js": "/react-gh-pages/static/js/787.aa569ced.chunk.js",
+    "static/media/Beach.mp3": "/react-gh-pages/static/media/Beach.b5c44d5248b881ad4ad4.mp3",
+    "static/media/seaside.png": "/react-gh-pages/static/media/seaside.c2d02f5360bebd924ba1.png",
+    "static/media/Fireworks.png": "/react-gh-pages/static/media/Fireworks.4dbce18f1f430a071248.png",
+    "static/media/Img.png": "/react-gh-pages/static/media/Img.9a15cde1d4458f3fba23.png",
+    "static/media/What.png": "/react-gh-pages/static/media/What.9a7cbf003bebb3b3034a.png",
+    "static/media/tool.svg": "/react-gh-pages/static/media/tool.64d8a3921d939d5ffd0a3817767a737d.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "static/media/cc.svg": "/react-gh-pages/static/media/cc.f810d5bad8a2536b2df5dec31bf8b52d.svg",
+    "static/media/timer.svg": "/react-gh-pages/static/media/timer.7a3172700204db26cfec42421dfc98c2.svg",
+    "static/media/favourite-white.svg": "/react-gh-pages/static/media/favourite-white.2e9d9898ce71c0188e976af1fe2a5afe.svg",
+    "static/media/info.svg": "/react-gh-pages/static/media/info.9e970e51dd240582aceb638e68218571.svg",
+    "static/media/favourite.svg": "/react-gh-pages/static/media/favourite.63cce7ef74cf7a69440b3141a27f59ba.svg",
+    "static/media/back-arrow-white.svg": "/react-gh-pages/static/media/back-arrow-white.d8a5b277a25dc29ef1aab75fab98cfa6.svg",
+    "static/media/arrow-go.svg": "/react-gh-pages/static/media/arrow-go.84558cea1ade8191aa6cecd7b71a242f.svg",
+    "static/media/back-arrow.svg": "/react-gh-pages/static/media/back-arrow.d6bea82400d832eca163370522669f6e.svg",
+    "main.fb963a16.css.map": "/react-gh-pages/static/css/main.fb963a16.css.map",
+    "main.9f1ecd1e.js.map": "/react-gh-pages/static/js/main.9f1ecd1e.js.map",
+    "787.aa569ced.chunk.js.map": "/react-gh-pages/static/js/787.aa569ced.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.74be31eb.css",
-    "static/js/main.26870f8d.js"
+    "static/css/main.fb963a16.css",
+    "static/js/main.9f1ecd1e.js"
   ]
 }
