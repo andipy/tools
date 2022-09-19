@@ -50,7 +50,7 @@ nav .nav-icon {
 }
 
 .h-full {
-  max-height: 100vh;
+  height: 100vh;
 }
 
 .w-full {
